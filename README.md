@@ -24,9 +24,8 @@
 ### Bước 3: Thực thi và thu thập kết quả
 * Tiến hành chạy kịch bản kiểm thử bằng cách nhấn nút **Start**.
 * Hệ thống ghi nhận các lượt gửi yêu cầu tải thành công với trạng thái phản hồi hợp lệ (Hiển thị các icon tích xanh trong cây kết quả).
-  <img width="1920" height="1080" alt="Screenshot 2026-06-17 163844" src="https://github.com/user-attachments/assets/371a2e66-266d-4a83-a8cd-1540cb473b12" />
-
-
+  
 ---
 
 ## 3. Hình ảnh minh họa kết quả thực hiện JMeter
+<img width="1920" height="1080" alt="Screenshot 2026-06-17 163844" src="https://github.com/user-attachments/assets/371a2e66-266d-4a83-a8cd-1540cb473b12" />
